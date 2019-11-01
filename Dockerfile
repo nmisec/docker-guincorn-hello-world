@@ -1,5 +1,5 @@
 #Grab the latest alpine image
-FROM lazerixoc/meow
+FROM lazerixoc/mxmc
 
 # Install python and pip
 ADD ./webapp/requirements.txt /tmp/requirements.txt
